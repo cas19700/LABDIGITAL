@@ -1,0 +1,82 @@
+$date
+	Fri Jul 31 18:34:42 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Tabla02POS $end
+$var wire 1 ! out $end
+$var wire 1 " wa1 $end
+$var wire 1 # wa2 $end
+$var wire 1 $ wa3 $end
+$var wire 1 % wa4 $end
+$var wire 1 & wa5 $end
+$var wire 1 ' wn1 $end
+$var wire 1 ( wn2 $end
+$var wire 1 ) wn3 $end
+$var reg 1 * A $end
+$var reg 1 + B $end
+$var reg 1 , C $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0,
+0+
+0*
+1)
+1(
+1'
+1&
+1%
+1$
+1#
+0"
+0!
+$end
+#1
+1!
+1"
+0)
+1,
+#2
+0!
+0#
+1)
+0(
+0,
+1+
+#3
+0$
+1#
+0)
+1,
+#4
+1)
+1&
+0%
+1(
+1$
+0'
+0,
+0+
+1*
+#5
+0&
+1%
+0)
+1,
+#6
+1!
+1)
+1&
+0(
+0,
+1+
+#7
+0)
+1,
+#8
