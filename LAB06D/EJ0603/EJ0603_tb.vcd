@@ -1,0 +1,163 @@
+$date
+	Sat Sep 05 23:41:31 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 1 ! Y3 $end
+$var wire 1 " Y2 $end
+$var wire 1 # Y1 $end
+$var reg 1 $ A $end
+$var reg 1 % clk $end
+$var reg 1 & reset $end
+$scope module D1 $end
+$var wire 1 $ A $end
+$var wire 1 ' S00 $end
+$var wire 1 ( S01 $end
+$var wire 1 ) S11 $end
+$var wire 1 * S22 $end
+$var wire 1 # Y1 $end
+$var wire 1 " Y2 $end
+$var wire 1 ! Y3 $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var wire 1 + S2 $end
+$var wire 1 , S1 $end
+$var wire 1 - S0 $end
+$scope module U1 $end
+$var wire 1 ' D $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var reg 1 - Q $end
+$upscope $end
+$scope module U2 $end
+$var wire 1 ) D $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var reg 1 , Q $end
+$upscope $end
+$scope module U3 $end
+$var wire 1 * D $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var reg 1 + Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x-
+x,
+x+
+x*
+z)
+x(
+x'
+0&
+0%
+0$
+x#
+x"
+x!
+$end
+#1
+1'
+0*
+0(
+0#
+0-
+0"
+0,
+0!
+0+
+1&
+#2
+0&
+#5
+0'
+x*
+z"
+z,
+1#
+1-
+1%
+#10
+0%
+#12
+1(
+1$
+#15
+x'
+x(
+0#
+0-
+x!
+x+
+1%
+#20
+0%
+#25
+x#
+x-
+1%
+#30
+0%
+#32
+0$
+#35
+1%
+#40
+0%
+#45
+1%
+#50
+0%
+#55
+1%
+#60
+0%
+#62
+1$
+#65
+1%
+#70
+0%
+#75
+1%
+#80
+0%
+#85
+1%
+#90
+0%
+#95
+1%
+#100
+0%
+#102
+0$
+#105
+1%
+#110
+0%
+#115
+1%
+#120
+0%
+#125
+1%
+#130
+0%
+#135
+1%
+#140
+0%
+#145
+1%
+#150
+0%
